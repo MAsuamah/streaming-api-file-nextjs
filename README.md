@@ -19,4 +19,5 @@
 #### Audio Requirments 
 - Ensure your file meets the [audio requirments](https://www.assemblyai.com/docs/speech-to-text/streaming#audio-requirements).
 - `wav` format produces the best results.
+- See example.wav in this repo for an example.
 
